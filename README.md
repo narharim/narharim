@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/narharistwt" target="blank"><img src="https://img.shields.io/twitter/follow/narharistwt?logo=twitter&style=for-the-badge" alt="narharistwt" /></a> </p>
 
-- 🌱 I’m currently learning **Go,Kubernetes**
+- 🌱 I’m currently learning **Go, Kubernetes**
 
-- 🤝 I’m looking for help with **Kubernetes-Map**(https://github.com/narharim/kubernetes-map/)
+- 🤝 I’m looking for help with [**Kubernetes-Map**](https://github.com/narharim/kubernetes-map/)
 
 - 📝 Blog [blog.narharimotivaras.com](https://blog.narharimotivaras.com)
 
