@@ -9,7 +9,7 @@
 
 - 📝 Blog [blog.narharimotivaras.com](https://blog.narharimotivaras.com)
 
-- 💬 Ask me about **AWS,kotlin,Go,Linux,Docker**
+- 💬 Ask me about **AWS | Docker | Kotlin | Linux | Go**
 
 - 📫 How to reach me **narhari.motivaras76@gmail.com**
 
