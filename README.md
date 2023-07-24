@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Narhari Motivaras</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=narharim&label=Profile%20views&color=0e75b6&style=flat" alt="narharim" /> </p>
 
 <p align="left"> <a href="https://twitter.com/narharistwt" target="blank"><img src="https://img.shields.io/twitter/follow/narharistwt?logo=twitter&style=for-the-badge" alt="narharistwt" /></a> </p>
 
