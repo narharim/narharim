@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **kubernetes-Map**
 
-- 📝 Blog [blog.narharimotivaras.com](blog.narharimotivaras.com)
+- 📝 Blog [blog.narharimotivaras.com](https://blog.narharimotivaras.com)
 
 - 💬 Ask me about **AWS,kotlin,Go,Linux,Docker**
 
