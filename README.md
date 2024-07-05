@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **AWS | Docker | Kotlin | Linux | Go**
 
-- 📫 How to reach me **narhari.motivaras76@gmail.com**
+- 📫 How to reach me **worknarhari@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
