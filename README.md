@@ -6,7 +6,7 @@
 
 - 🤝 I’m looking for help with [**Kubernetes-Map**](https://github.com/narharim/kubernetes-map/)
 
-- 📝 Blog [blog.narharimotivaras.com](https://blog.narharimotivaras.com)
+- 📝 Blog [https://narhari.hashnode.dev](https://narhari.hashnode.dev)
 
 - 💬 Ask me about **AWS | Docker | Kotlin | Linux | Go**
 
