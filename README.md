@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Narhari Motivaras</h1>
 
-<p align="left"> <a href="https://twitter.com/iamnarhari" target="blank"><img src="https://img.shields.io/twitter/follow/narharistwt?logo=twitter&style=for-the-badge" alt="iamnarhari" /></a> </p>
+<p align="left"> <a href="https://x.com/iamnarhari" target="blank"><img src="https://img.shields.io/twitter/follow/iamnarhari?logo=twitter&style=for-the-badge" alt="iamnarhari" /></a> </p>
 
 - 🌱 I’m currently learning **Go, Kubernetes**
 
